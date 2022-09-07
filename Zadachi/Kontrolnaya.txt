@@ -1,0 +1,5 @@
+Ivanov Andrey 5
+Petrov Denis 2
+Ulyanova Darya 4
+Prohorov Ilia 3
+Kuznetsov Maksim 1
